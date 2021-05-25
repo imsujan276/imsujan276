@@ -6,11 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imsujan276" alt="imsujan276" /></a> </p>
 
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsujan276&show_icons=true&locale=en&layout=compact" alt="imsujan276" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imsujan276&show_icons=true&locale=en" alt="imsujan276" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imsujan276&" alt="imsujan276" /></p>
