@@ -3,7 +3,7 @@
 <h1 align="center">Sujan Gainju</h1>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=3000&pause=1000&color=1111FF&width=1000&center=true&vCenter=true&lines=Flutter+Developer;Software+Engineer;Computer+Engineer;FreeLancer)](https://github.com/imsujan276)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&width=1000&center=true&vCenter=true&lines=Flutter+Developer;Software+Engineer;Computer+Engineer;FreeLancer)](https://github.com/imsujan276)
 
 ## 🛠&nbsp;Tech Stack
 
